@@ -40,7 +40,7 @@ git init
 git add .
 git commit -m "feat: portfolio siap deploy"
 git branch -M main
-git remote add origin https://github.com/yufisafangat50-star/yufi-portfolio.git
+git remote add origin https://github.com/yufisafangat50-star/yufi-portofolio.git
 git push -u origin main
 ```
 
